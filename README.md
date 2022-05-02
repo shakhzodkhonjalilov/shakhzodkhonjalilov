@@ -18,6 +18,7 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/shakhjalilov/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/shakhjalilov/)
 &nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/uzb_sergo)
 [![website](./img/instagram-dark.svg)](https://instagram.com/uzb_sergo)
 
 ### Languages and Tools:
